@@ -1,0 +1,11 @@
+pydantic
+python-dotenv
+openai
+numpy
+sounddevice
+Pillow
+requests
+moviepy
+Flask
+Flask-Cors
+Pillow<10.0.0
